@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiber_docs=self.webpackChunkfiber_docs||[]).push([[8750],{6966:e=>{e.exports=JSON.parse('{"title":"API","description":"API documentation for Fiber.","slug":"/category/api","permalink":"/category/api","navigation":{"previous":{"title":"\ud83d\udc4b Welcome","permalink":"/"},"next":{"title":"\ud83d\udce6 Fiber","permalink":"/api/fiber"}}}')}}]);
